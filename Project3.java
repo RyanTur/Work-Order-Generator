@@ -1,10 +1,5 @@
-/*
- * Author: Ryan Turlington
- * Course: COP3503
- * Project #3
- * Title  :  Objects and Classes
- * Due Date: 11/23/2002
- * 
+
+ /* 
  * reads in a list of employees and  customer tickets and then assigns an even number of work orders per employee
  */
 import java.text.SimpleDateFormat;
